@@ -1,8 +1,9 @@
 # KotlinPrograms
 
 # Overview
-This repository contains small programs and tutorials that I wrote while learning the Kotlin language.
-I learned Kotlin by completing a course on sololearn.com. For this course, I wrote four code projects:
+This repository contains small programs and a tutorial that I wrote while learning the Kotlin language.
+I learned Kotlin by completing a course on sololearn.com. For this course, I wrote four code projects. 
+In addition, I worked on a game tutorial:
 * Water Consumption - designed to demonstrate mastery of variables, operators, comments, and input in Kotlin
 * Parking Fee - designed to demonstrate mastery of conditional statements.
 * Shipping Calculator - designed to demonstrate mastery of programming with functions.
