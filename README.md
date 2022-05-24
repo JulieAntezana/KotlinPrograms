@@ -7,10 +7,7 @@ I learned Kotlin by completing a course on sololearn.com. For this course, I wro
 * Parking Fee - designed to demonstrate mastery of conditional statements.
 * Shipping Calculator - designed to demonstrate mastery of programming with functions.
 * Music Player -  designed to demonstrate mastery of programming with classes.
-
-#Sudoku Game
-The code here is not my own. I followed a tutorial to help engage my learning of the Kotlin programming language.
-The tutorial, called "Building a Sudoku Game with Kotlin" was written by Rafaela Acevedo and can be found at this url:
+* Sudoku Game Tutorial - The code here is not my own. I followed a tutorial to help engage my learning of the Kotlin programming language. The tutorial, called "Building a Sudoku Game with Kotlin" was written by Rafaela Acevedo and can be found at this url:
 
 https://azevedorafaela.com/2018/04/07/building-a-sudoku-game-with-kotlin/
 
@@ -25,9 +22,7 @@ We also add the ability to validate the user input.
 
 My purpose for writing this software is to further my knowledge of the Kotlin programming language.
 
-I have created a video to demonstrate my Kotlin learning journey. I show the work I did on sololearn.com to learn the language,
-including small programs written along the way to earning the Kotlin course certificate. 
-This is followed by a walkthrough of the Sudoku Game code.
+I have created a video to demonstrate my Kotlin learning journey. I show the work I did on sololearn.com followed by a walkthrough of the Sudoku Game code.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -39,8 +34,8 @@ The tools used to develop the Sudoku Game are:
 
 # Useful Websites
 {Make a list of websites that you found helpful in this project}
-* [sololearn]([http://url.link.goes.here](https://www.sololearn.com/learning/1160))
-* [Building a Sudoku game with Kotlin]([http://url.link.goes.here](https://azevedorafaela.com/2018/04/07/building-a-sudoku-game-with-kotlin/))
+* [sololearn]([https://www.sololearn.com/learning/1160]
+* [Building a Sudoku game with Kotlin]([[https://azevedorafaela.com/2018/4/07/building-a-sudoku-game-with-kotlin/]
 
 # Future Work
 Some things that I need to fix, improve, and add in the future:
