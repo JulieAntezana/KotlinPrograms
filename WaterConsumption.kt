@@ -12,7 +12,7 @@ Sample Output
 The water consumption in 5 years would be: 5*365*15 = 27375
 */
 
-// begin with main
+// begin the program with the main function
 fun main(args: Array<String>) {
     // create variable to read user input
     var years = readLine()!!.toInt()
