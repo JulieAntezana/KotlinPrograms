@@ -25,7 +25,7 @@ My purpose for writing this software is to further my knowledge of the Kotlin pr
 
 I have created a video to demonstrate my Kotlin learning journey. I show the work I did on sololearn.com followed by a walkthrough of the Sudoku Game code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Module 1 Kotlin Programs Video](http://www.youtube.com/watch?v=2pOshksv6fE)
 
 # Development Environment
 The tools used to develop the Sudoku Game are:
