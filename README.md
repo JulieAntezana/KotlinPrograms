@@ -1,6 +1,14 @@
-# SudokuGame
+# KotlinPrograms
 
 # Overview
+This repository contains small programs and tutorials that I wrote while learning the Kotlin language.
+I learned Kotlin by completing a course on sololearn.com. For this course, I wrote four code projects:
+* Water Consumption - designed to demonstrate mastery of variables, operators, comments, and input in Kotlin
+* Parking Fee - designed to demonstrate mastery of conditional statements.
+* Shipping Calculator - designed to demonstrate mastery of programming with functions.
+* Music Player -  designed to demonstrate mastery of programming with classes.
+
+#Sudoku Game
 The code here is not my own. I followed a tutorial to help engage my learning of the Kotlin programming language.
 The tutorial, called "Building a Sudoku Game with Kotlin" was written by Rafaela Acevedo and can be found at this url:
 
