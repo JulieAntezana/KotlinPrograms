@@ -36,7 +36,7 @@ fun main(args: Array<String>) {
         total = 5.0 + ((hours -5.0) * 0.5)
     }
     
-    // calculate parking fee for more than 24 hours (daily rate plus $0.50 per hour)
+    // calculate parking fee for more than 24 hours, the daily rate plus $0.50 per hour
     else {
         total = (hours / 24 * 15) + ((hours % 24) * 0.5)
     }
